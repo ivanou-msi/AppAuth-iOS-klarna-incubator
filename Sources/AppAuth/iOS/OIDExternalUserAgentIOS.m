@@ -25,7 +25,7 @@
 #import <SafariServices/SafariServices.h>
 #import <AuthenticationServices/AuthenticationServices.h>
 
-#import <AppAuth/OIDAuthorizationRequest.h>
+#import "OIDAuthorizationRequest.h"
 #import "OIDErrorUtilities.h"
 #import "OIDExternalUserAgentSession.h"
 #import "OIDExternalUserAgentRequest.h"
